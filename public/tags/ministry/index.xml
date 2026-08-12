@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ministry on Alpha Church</title>
+		<link>http://localhost:1313/tags/ministry/</link>
+		<description>Recent content in Ministry on Alpha Church</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+			<managingEditor>test@example.com (Web Author)</managingEditor>
+		
+		
+			<webMaster>test@example.com (Web Author)</webMaster>
+		
+		
+		
+			<lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/ministry/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kids</title>
+				<link>http://localhost:1313/kids/</link>
+				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/kids/</guid>
+				<description>&lt;h2 id=&#34;section&#34;&gt;Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some text&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;another-section&#34;&gt;Another Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some more text&lt;/p&gt;&#xA;&lt;p&gt;This is an example of multiple columns.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;left-column&#34;&gt;Left Column&lt;/h3&gt;&#xA;&lt;p&gt;You can fill this in with &lt;em&gt;markdown&lt;/em&gt;&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;another-subheading&#34;&gt;Another subheading&lt;/h3&gt;&#xA;&lt;p&gt;Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan&#xA;eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent.&#xA;Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus.&#xA;Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

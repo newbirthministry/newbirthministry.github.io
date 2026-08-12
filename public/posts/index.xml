@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Alpha Church</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Alpha Church</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+			<managingEditor>test@example.com (Web Author)</managingEditor>
+		
+		
+			<webMaster>test@example.com (Web Author)</webMaster>
+		
+		
+		
+			<lastBuildDate>Thu, 26 Sep 2024 08:42:20 +1000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello World!</title>
+				<link>http://localhost:1313/posts/hello-world/</link>
+				<pubDate>Thu, 26 Sep 2024 08:42:20 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/posts/hello-world/</guid>
+				<description>&lt;p&gt;Just saying &lt;em&gt;hi&lt;/em&gt;!&lt;/p&gt;&#xA;&lt;p&gt;And testing a Bible verse popup: John 3:16.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Style Guide</title>
+				<link>http://localhost:1313/posts/style-guide/</link>
+				<pubDate>Tue, 14 Nov 2017 10:57:55 -0500</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/posts/style-guide/</guid>
+				<description>&lt;h1 id=&#34;headings&#34;&gt;Headings&lt;/h1&gt;&#xA;&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;headings-with-text&#34;&gt;Headings with Text&lt;/h1&gt;&#xA;&lt;h1 id=&#34;heading-1-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading-2-1&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Image Style Guide</title>
+				<link>http://localhost:1313/posts/image-content/</link>
+				<pubDate>Tue, 14 Nov 2017 08:08:17 -0500</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/posts/image-content/</guid>
+				<description>&lt;p&gt;Veniam est eu adipisicing reprehenderit do sit sint elit sint. Tempor laborum ut dolore aliqua. Commodo eu qui sint magna veniam laborum. Ad cupidatat do proident ex veniam amet Lorem. Officia laboris aute fugiat id consequat culpa ullamco labore ea amet ad. Occaecat quis dolor commodo pariatur cillum et id id cupidatat officia.&lt;/p&gt;&#xA;&lt;figure class=&#34;full&#34;&gt;&lt;img src=&#34;//via.placeholder.com/2400x200&#34;&#xA;&#x9;&#x9;&#x9;alt=&#34;Magna sunt ut ea quis aliqua cupidatat ut quis sit aliqua tempor duis.&#34;&gt;&lt;figcaption&gt;&#xA;&#x9;&#x9;&#x9;&lt;p&gt;Magna sunt ut ea quis aliqua cupidatat ut quis sit aliqua tempor duis.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Creating a New Theme</title>
+				<link>http://localhost:1313/posts/creating-a-new-theme/</link>
+				<pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/posts/creating-a-new-theme/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>(Hu)go Template Primer</title>
+				<link>http://localhost:1313/posts/goisforlovers/</link>
+				<pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/posts/goisforlovers/</guid>
+				<description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;//golang.org/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;//golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;//golang.org/pkg/html/template/&#34;&gt;go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
