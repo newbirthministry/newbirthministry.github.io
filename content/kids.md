@@ -1,8 +1,8 @@
 ---
 title: "Kids"
 subtitle: "Ministry with Children"
-date: 2018-05-01T07:39:12+10:00
-lastmod: 2025-07-16
+date: 2026-08-12T12:00:00+00:00
+lastmod: 2026-08-12T12:00:00+00:00
 images: [img/kids_1.jpg]
 tags: ["two_column","ministry"]
 draft: false

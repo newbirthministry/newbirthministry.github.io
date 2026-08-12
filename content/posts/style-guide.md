@@ -1,6 +1,6 @@
 +++
 title = "Style Guide"
-date = 2017-11-14T10:57:55-05:00
+date = 2026-08-12T12:00:00+00:00
 tags = []
 categories = []
 +++

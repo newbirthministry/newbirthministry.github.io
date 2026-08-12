@@ -1,7 +1,7 @@
 ---
 title: "About"
 subtitle: "About Alpha-Church"
-date: 2018-04-30T10:05:49+10:00
+date: 2026-08-12T12:00:00+00:00
 images: ["img/freely-20445.jpg"]
 draft: false
 ---

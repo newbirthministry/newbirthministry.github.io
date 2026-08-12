@@ -1,6 +1,6 @@
 ---
 author: "Michael Henderson"
-date: 2014-09-28
+date: 2026-08-12T12:00:00+00:00
 title: Creating a New Theme
 tags: ["testing"]
 images : []
