@@ -7,3 +7,5 @@ date: 2026-08-12T12:00:00+00:00
 ---
 
 This is our main branch and where our vision as a church started. 
+
+Get directions: [Open in maps](/go?lat=50.870626&lon=8.016806&label=New%20Birth%20Believers%20Ministry)
