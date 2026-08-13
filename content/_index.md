@@ -26,7 +26,7 @@
     accent = "1"
     title = "Serve"
     text = "Growing people who serve our community."
-    url = "/kids"
+    url = "/serve"
 
   [[feature_icons.tile]]
     icon = "fa-church"
@@ -34,6 +34,7 @@
     accent = "2"
     title = "Meet"
     text = "Meeting together to hear."
+    url = "/meet"
 
   [[feature_icons.tile]]
     icon = "fa-comments"
@@ -41,6 +42,7 @@
     accent = "5"
     title = "Speak"
     text = "Speaking encouragement to one-another."
+    url = "/speak"
 
   [[feature_icons.tile]]
     icon = "fa-heartbeat"
@@ -48,6 +50,7 @@
     accent = "3"
     title = "Loved"
     text = "Knowing Love. Being Loved."
+    url = "/loved"
 
 [feature_images]
 #These feature images look best if there's an even number of them.
@@ -64,7 +67,7 @@
     image = "img/bible_studies.jpg"
     title = "Bible Study"
     text = "Want more during the week?"
-    url = "#"
+    url = "/bible-study"
     button_text="Join a group today!"
 
 [CTA]
