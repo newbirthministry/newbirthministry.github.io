@@ -1,4 +1,6 @@
 ---
+# Page: Serve — holds content for the Serve section.
+# Front matter fields: `title`, `subtitle`, `date`, `lastmod`, `images`, `tags`, `draft`.
 title: "Serve"
 subtitle: "Serving Our Community"
 date: 2018-05-01T07:39:12+10:00
@@ -7,6 +9,9 @@ images: [img/kids_1.JPG]
 tags: ["two_column","ministry"]
 draft: false
 ---
+
+
+<!-- Page content: Serve — sections below describe serving opportunities and contact info -->
 
 ## Serving
 

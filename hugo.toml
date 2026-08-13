@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://localhost:1313/"
 defaultContentLanguage = "en"
 title = "Alpha Church"
 theme = "alpha-church"
@@ -115,7 +115,7 @@ enableEmoji = true
     #lge = "example96.png"
 
   [params.banner]
-    image = "img/banner_2.jpg"
+    image = "/img/banner_2.jpg"
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]

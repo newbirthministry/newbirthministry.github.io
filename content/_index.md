@@ -1,4 +1,10 @@
 +++
+# Homepage configuration (TOML): controls banner, feature tiles, images, and CTA.
+# - `banner`: top banner buttons and links
+# - `feature_icons`: small icon tiles (title, text, url)
+# - `feature_images`: larger image tiles (image, title, url, button_text)
+# - `CTA`: call-to-action block enabled on homepage
+
 [banner]
   [[banner.button]]
       url = "/contact"
@@ -57,8 +63,10 @@
   enable = true
 
   [[feature_images.tile]]
-    image = "img/kids_1.JPG"
-    title = "Childrens' Ministry"
+    # Use a homepage-only resized copy of the kids image so its display matches
+    # the Bible Study image dimensions/aspect ratio
+    image = "img/kids_home.jpg"
+    title = "Children' Ministry"
     text = "A church for the family."
     url = "/kids"
     button_text = "Learn more"

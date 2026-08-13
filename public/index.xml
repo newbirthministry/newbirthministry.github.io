@@ -14,43 +14,43 @@
 		
 		
 		
-			<lastBuildDate>Wed, 01 Jul 2026 18:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 12 Aug 2026 12:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>New Birth Believers Ministry, Siegen</title>
-				<link>http://localhost:1313/locations/new_birth_siegen/</link>
-				<pubDate>Wed, 01 Jul 2026 18:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/locations/new_birth_siegen/</guid>
-				<description>&lt;p&gt;This is our main branch and where our vision as a church started.&lt;/p&gt;</description>
+				<title>(Hu)go Template Primer</title>
+				<link>http://localhost:1313/posts/goisforlovers/</link>
+				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/posts/goisforlovers/</guid>
+				<description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;//golang.org/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;//golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;//golang.org/pkg/html/template/&#34;&gt;go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Hello World!</title>
-				<link>http://localhost:1313/posts/hello-world/</link>
-				<pubDate>Thu, 26 Sep 2024 08:42:20 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/posts/hello-world/</guid>
-				<description>&lt;p&gt;Just saying &lt;em&gt;hi&lt;/em&gt;!&lt;/p&gt;&#xA;&lt;p&gt;And testing a Bible verse popup: John 3:16.&lt;/p&gt;</description>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;This is an example about page.&lt;/p&gt;&#xA;&lt;p&gt;With a bible quote for good measure!&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.”&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Contact</title>
 				<link>http://localhost:1313/contact/</link>
-				<pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
 				<guid>http://localhost:1313/contact/</guid>
 				<description>&lt;form name=&#34;contact&#34; method=&#34;POST&#34; action=&#34;http://localhost:1313/contact_thanks&#34; netlify&gt;&#xD;&#xA;&#x9;&#x9;&lt;div class=&#34;row gtr-50 gtr-uniform&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xD;&#xA;&#x9;    &#x9;&#x9;&lt;input type=&#34;text&#34; name=&#34;name&#34; aria-label=&#34;Your name&#34; placeholder=&#34;Your name&#34; required&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xD;&#xA;&#x9;    &#x9;&#x9;&lt;input type=&#34;email&#34; name=&#34;email&#34; aria-label=&#34;Email address&#34; placeholder=&#34;Email address&#34; required&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-12&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;textarea name=&#34;message&#34; aria-label=&#34;Enter your message&#34; placeholder=&#34;Enter your message&#34; rows=&#34;6&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-12&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;ul class=&#34;actions special&#34;&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&#x9;&#x9;&lt;li&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;input type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;/li&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/ul&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&lt;/form&gt;</description>
 			</item>
 			<item>
-				<title>Thanks for Contacting Us</title>
-				<link>http://localhost:1313/contact_thanks/</link>
-				<pubDate>Sat, 12 May 2018 13:38:38 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/contact_thanks/</guid>
-				<description>&lt;p&gt;Thanks for touching base with us. Someone from &lt;strong&gt;Alpha&lt;/strong&gt; &lt;em&gt;Church&lt;/em&gt; will be in touch soon.&lt;/p&gt;</description>
+				<title>Creating a New Theme</title>
+				<link>http://localhost:1313/posts/creating-a-new-theme/</link>
+				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/posts/creating-a-new-theme/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Word of God I</title>
-				<link>http://localhost:1313/sermons/table-talk-word-of-god-i/</link>
-				<pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/sermons/table-talk-word-of-god-i/</guid>
-				<description>&lt;p&gt;Recording by Gillian Hedrie from &lt;a href=&#34;https://librivox.org/selections-from-the-table-talk-of-martin-luther-by-martin-luther/&#34;&gt;Librivox&lt;/a&gt;&lt;/p&gt;</description>
+				<title>Getting Started with Hugo</title>
+				<link>http://localhost:1313/posts/hugoisforlovers/</link>
+				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/posts/hugoisforlovers/</guid>
+				<description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your os and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;http://localhost:1313/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;Step 2. Build the Docs&lt;/h2&gt;&#xA;&lt;p&gt;Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&lt;/p&gt;&#xA;&lt;p&gt;Follow the following steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Clone the &lt;a href=&#34;//github.com/spf13/hugo&#34;&gt;hugo repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Go into the repo&lt;/li&gt;&#xA;&lt;li&gt;Run hugo in server mode and build the docs&lt;/li&gt;&#xA;&lt;li&gt;Open your browser to http://localhost:1313&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Corresponding pseudo commands:&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

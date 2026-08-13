@@ -17,16 +17,6 @@ With a bible quote for good measure!
 ## And a map
 
 {{< map zoom=18 >}}
-{{< map_marker latitude="51.513873" longitude="-0.098486">}}
-{{< map_marker latitude="51.513873" longitude="-0.098186">}}
-{{< map_marker latitude="51.513873" longitude="-0.097886">}}
-{{< /map >}}
-
-You must have at least 1 map marker on the map, but if you don't set latitude
-and longitude, the defaults set in the hugo config are used:
-
-
-{{< map >}}
-{{< map_marker >}}
+{{< map_marker latitude="50.870626" longitude="8.016806">}}
 {{< /map >}}
 

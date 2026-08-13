@@ -14,15 +14,29 @@
 		
 		
 		
-			<lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 12 Aug 2026 12:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/ministry/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kids</title>
 				<link>http://localhost:1313/kids/</link>
-				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
 				<guid>http://localhost:1313/kids/</guid>
 				<description>&lt;h2 id=&#34;section&#34;&gt;Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some text&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;another-section&#34;&gt;Another Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some more text&lt;/p&gt;&#xA;&lt;p&gt;This is an example of multiple columns.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;left-column&#34;&gt;Left Column&lt;/h3&gt;&#xA;&lt;p&gt;You can fill this in with &lt;em&gt;markdown&lt;/em&gt;&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;another-subheading&#34;&gt;Another subheading&lt;/h3&gt;&#xA;&lt;p&gt;Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan&#xA;eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent.&#xA;Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus.&#xA;Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Serve</title>
+				<link>http://localhost:1313/serve/</link>
+				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/serve/</guid>
+				<description>&lt;!-- Page content: Serve — sections below describe serving opportunities and contact info --&gt;&#xA;&lt;h2 id=&#34;serving&#34;&gt;Serving&lt;/h2&gt;&#xA;&lt;p&gt;Here is some text about serving in the church and community.&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;how-to-get-involved&#34;&gt;How to get involved&lt;/h2&gt;&#xA;&lt;p&gt;Here is some more text explaining how volunteers can help.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;opportunities&#34;&gt;Opportunities&lt;/h3&gt;&#xA;&lt;p&gt;You can fill this in with &lt;em&gt;markdown&lt;/em&gt; describing opportunities and roles.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Details on who to contact to sign up and availability.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Speak</title>
+				<link>http://localhost:1313/speak/</link>
+				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/speak/</guid>
+				<description>&lt;!-- Page content: Speak — groups, support, and how to get involved in speaking or testimony --&gt;&#xA;&lt;h2 id=&#34;speak&#34;&gt;Speak&lt;/h2&gt;&#xA;&lt;p&gt;Resources and notes about speaking, encouragement and pastoral care.&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;groups&#34;&gt;Groups&lt;/h2&gt;&#xA;&lt;p&gt;Small groups, encouragement circles and speaking opportunities.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;how-we-support&#34;&gt;How we support&lt;/h3&gt;&#xA;&lt;p&gt;Information about pastoral teams and mentoring.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;get-involved&#34;&gt;Get involved&lt;/h3&gt;&#xA;&lt;p&gt;How to share a testimony or lead a discussion.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
 			</item>
 	</channel>
 </rss>

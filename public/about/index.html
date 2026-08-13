@@ -17,8 +17,8 @@ With a bible quote for good measure!
 “For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.”">
 	<meta property="og:locale" content="en">
 	<meta property="og:type" content="article">
-		<meta property="article:published_time" content="2018-04-30T10:05:49+10:00">
-		<meta property="article:modified_time" content="2018-04-30T10:05:49+10:00">
+		<meta property="article:published_time" content="2026-08-12T12:00:00+00:00">
+		<meta property="article:modified_time" content="2026-08-12T12:00:00+00:00">
 		<meta property="og:image" content="http://localhost:1313/img/freely-20445.jpg">
 
 		
@@ -180,7 +180,7 @@ With a bible quote for good measure!
 
     <script>
 
-		var points = [{"latitude":"51.513873","longitude":"-0.098486"},{"latitude":"51.513873","longitude":"-0.098186"},{"latitude":"51.513873","longitude":"-0.097886"}];
+		var points = [{"latitude":"50.870626","longitude":"8.016806"}];
 		var initialZoom = "18";
 		var bounds = new L.LatLngBounds(points.map(p=>{
 			return [p.latitude,p.longitude];
@@ -218,74 +218,13 @@ With a bible quote for good measure!
     </script>
   
 
-<p>You must have at least 1 map marker on the map, but if you don&rsquo;t set latitude
-and longitude, the defaults set in the hugo config are used:</p>
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div id="map_1" class="map"></div>
-
-
-  
-
-    <script>
-
-		var points = [{"latitude":"50.870619","longitude":"8.016728"}];
-		var initialZoom = "18";
-		var bounds = new L.LatLngBounds(points.map(p=>{
-			return [p.latitude,p.longitude];
-		}));
-		var mymap = L.map("map_1").fitBounds(bounds);
-		if ( initialZoom == 0 ){
-			
-			
-			if ( mymap.getZoom() > 13){
-				mymap.setZoom(13);
-			}
-		} else {
-				mymap.setZoom(initialZoom);
-		}
-        L.tileLayer(
-          "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-          {
-            attribution:
-              'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-              zoom: 18 }
-        ).addTo(mymap);
-		points.forEach(loc=>{
-			let marker = L.marker([loc.latitude,loc.longitude]).addTo(mymap);
-			if ( loc.title ){
-				let content;
-				if ( loc.link ){
-					content = `<div class="special"><h4>${loc.title}</h4><a class="" href="${loc.link}">Find out more</a></div>`
-				} else {
-					content = `<h4>${loc.title}</h4>`
-				}
-				marker.bindPopup(content,{closeOnClick: false, autoClose: false}).openPopup();
-			}
-		});
-
-    </script>
-  
-
 </div>
 						
 							<hr />
 							<div id="meta">
 							 
-							<p class="meta">Published: April 30, 2018</p>
-							<p class="meta">Updated: April 30, 2018</p>
+							<p class="meta">Published: August 12, 2026</p>
+							<p class="meta">Updated: August 12, 2026</p>
 							</div>
 						 
 					</div>

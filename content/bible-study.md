@@ -1,4 +1,6 @@
 ---
+# Page: Bible Study — lists groups and resources for weekday study.
+# Front matter fields: `title`, `subtitle`, `date`, `lastmod`, `images`, `tags`, `draft`.
 title: "Bible Study"
 subtitle: "Join a Group"
 date: 2018-05-01T07:39:12+10:00
@@ -7,6 +9,8 @@ images: [img/bible_studies.jpg]
 tags: ["two_column","bible"]
 draft: false
 ---
+
+<!-- Page content: Bible Study — current topics, how to join, and reading plans -->
 
 ## Bible Study
 

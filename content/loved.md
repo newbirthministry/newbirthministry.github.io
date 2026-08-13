@@ -1,4 +1,6 @@
 ---
+# Page: Loved — pastoral care and resources about experiencing love.
+# Front matter fields: `title`, `subtitle`, `date`, `lastmod`, `images`, `tags`, `draft`.
 title: "Loved"
 subtitle: "Knowing Love. Being Loved."
 date: 2018-05-01T07:39:12+10:00
@@ -7,6 +9,8 @@ images: [img/kids_1.JPG]
 tags: ["two_column","pastoral"]
 draft: false
 ---
+
+<!-- Page content: Loved — support options, prayer, and pastoral visiting info -->
 
 ## Loved
 

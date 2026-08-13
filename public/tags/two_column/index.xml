@@ -14,15 +14,43 @@
 		
 		
 		
-			<lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 12 Aug 2026 12:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/two_column/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kids</title>
 				<link>http://localhost:1313/kids/</link>
-				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
 				<guid>http://localhost:1313/kids/</guid>
 				<description>&lt;h2 id=&#34;section&#34;&gt;Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some text&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;another-section&#34;&gt;Another Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some more text&lt;/p&gt;&#xA;&lt;p&gt;This is an example of multiple columns.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;left-column&#34;&gt;Left Column&lt;/h3&gt;&#xA;&lt;p&gt;You can fill this in with &lt;em&gt;markdown&lt;/em&gt;&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;another-subheading&#34;&gt;Another subheading&lt;/h3&gt;&#xA;&lt;p&gt;Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan&#xA;eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent.&#xA;Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus.&#xA;Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bible Study</title>
+				<link>http://localhost:1313/bible-study/</link>
+				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/bible-study/</guid>
+				<description>&lt;!-- Page content: Bible Study — current topics, how to join, and reading plans --&gt;&#xA;&lt;h2 id=&#34;bible-study&#34;&gt;Bible Study&lt;/h2&gt;&#xA;&lt;p&gt;Information on midweek Bible study groups and resources.&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;groups-and-topics&#34;&gt;Groups and Topics&lt;/h2&gt;&#xA;&lt;p&gt;Descriptions of ongoing studies and how to join.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;current-topics&#34;&gt;Current Topics&lt;/h3&gt;&#xA;&lt;p&gt;Short notes on the current series and reading plan.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;join&#34;&gt;Join&lt;/h3&gt;&#xA;&lt;p&gt;How to sign up and group meeting times.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Loved</title>
+				<link>http://localhost:1313/loved/</link>
+				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/loved/</guid>
+				<description>&lt;!-- Page content: Loved — support options, prayer, and pastoral visiting info --&gt;&#xA;&lt;h2 id=&#34;loved&#34;&gt;Loved&lt;/h2&gt;&#xA;&lt;p&gt;Reflections and resources to help people experience God&amp;rsquo;s love.&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;support&#34;&gt;Support&lt;/h2&gt;&#xA;&lt;p&gt;Ways the church supports those in need and pastoral care options.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;listening&#34;&gt;Listening&lt;/h3&gt;&#xA;&lt;p&gt;How to request prayer and pastoral visiting.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;&#xA;&lt;p&gt;Links to helpful articles and local support groups.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Meet</title>
+				<link>http://localhost:1313/meet/</link>
+				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/meet/</guid>
+				<description>&lt;!-- Page content: Meet — schedule, what to expect, and FAQ for newcomers --&gt;&#xA;&lt;h2 id=&#34;meetings&#34;&gt;Meetings&lt;/h2&gt;&#xA;&lt;p&gt;Information about our regular meetings and worship gatherings.&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;&#xA;&lt;p&gt;Times, locations and what to expect when you attend.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;weekly&#34;&gt;Weekly&lt;/h3&gt;&#xA;&lt;p&gt;Details on weekly meeting structure and activities.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;faq&#34;&gt;FAQ&lt;/h3&gt;&#xA;&lt;p&gt;Common questions answered for newcomers.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Serve</title>
+				<link>http://localhost:1313/serve/</link>
+				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
+				<guid>http://localhost:1313/serve/</guid>
+				<description>&lt;!-- Page content: Serve — sections below describe serving opportunities and contact info --&gt;&#xA;&lt;h2 id=&#34;serving&#34;&gt;Serving&lt;/h2&gt;&#xA;&lt;p&gt;Here is some text about serving in the church and community.&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;how-to-get-involved&#34;&gt;How to get involved&lt;/h2&gt;&#xA;&lt;p&gt;Here is some more text explaining how volunteers can help.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;opportunities&#34;&gt;Opportunities&lt;/h3&gt;&#xA;&lt;p&gt;You can fill this in with &lt;em&gt;markdown&lt;/em&gt; describing opportunities and roles.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Details on who to contact to sign up and availability.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
 			</item>
 	</channel>
 </rss>
