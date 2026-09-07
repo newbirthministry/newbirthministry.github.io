@@ -10,29 +10,7 @@ tags: ["two_column","gathering"]
 draft: false
 ---
 
-<!-- Page content: Meet — schedule, what to expect, and FAQ for newcomers -->
+# Meet Us
 
-## Meetings
-
-Information about our regular meetings and worship gatherings.
-
-{{< seperator >}}
-
-## Schedule
-
-Times, locations and what to expect when you attend.
-
-{{< columns >}}
-
-### Weekly
-
-Details on weekly meeting structure and activities.
-
-<--->
-
-### FAQ
-
-Common questions answered for newcomers.
-
-{{< /columns >}}
+No. Everyone is welcome to worship, study God’s Word, and fellowship with us.
 
