@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="en">
-	<head>
+	<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 		<title>About |  New Birth Of Believers Ministry</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -31,18 +31,7 @@ As Scripture declares:
 
 		<link rel="stylesheet" href="http://localhost:1313/fontawesome/css/all.min.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.8.3/plyr.min.css" integrity="sha512-3DZqJvvs6wAQnnrL13OsEHlNOM8HIgKw+PIm9NSBrT/KDXYyvKRSTRu31SSa5PlfbUzPMBg3b4mD3ojys0qIow==" crossorigin="anonymous">
 		
-		<link rel="stylesheet" href="/style.main.min.27a7ed82b17c1d1e5220a1abd9b721620c536354530d3e094c40a7ba47306f6d.css" integrity="sha256-J6ftgrF8HR5SIKGr2bchYgxTY1RTDT4JTECnukcwb20=" media="screen" crossorigin="anonymous" /><link rel="stylesheet" href="http://localhost:1313/example.css">
-
-
-
-
-
-    
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="anonymous"/>
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="anonymous"></script>
-
-
-</head>
+		<link rel="stylesheet" href="/style.main.min.1e0c47aae5166de61512b3dc33c26eb8c2f4d0d59375b048c176894e4db95ea8.css" integrity="sha256-HgxHquUWbeYVErPcM8JuuML00NWTdbBIwXaJTk25Xqg=" media="screen" crossorigin="anonymous" /><link rel="stylesheet" href="http://localhost:1313/example.css"></head>
 
 
 <body  >
@@ -165,92 +154,6 @@ As Scripture declares:
 <p>“There are different kinds of gifts, but the same Spirit distributes them.” — 1 Corinthians 12:4</p>
 <p>We are also committed to teaching the truth of God’s Word so that every believer is firmly established in the Gospel and is no longer carried away by false doctrine.</p>
 <p>“Study to show yourself approved unto God… rightly dividing the word of truth.” — 2 Timothy 2:15 (KJV)</p>
-<hr>
-<h3 id="sunday-worship-service">Sunday Worship Service</h3>
-<p>Our Sunday Worship Service is a time of heartfelt praise, worship, prayer, and the teaching of God’s Word. It is a wonderful opportunity for fellowship, spiritual growth, and encountering God’s presence.</p>
-<p>“Let us not neglect our meeting together… but encourage one another.” — Hebrews 10:24–25</p>
-<p>We look forward to worshipping with you every Sunday.</p>
-<hr>
-<h3 id="midweek-ministries">Midweek Ministries</h3>
-<p>We encourage every member to stay spiritually refreshed by participating in our weekly ministry gatherings.</p>
-<h4 id="morning-devotion">Morning Devotion</h4>
-<p>Monday – Friday<br>
-Time: 5:00 AM – 5:30 AM</p>
-<p>Begin each day in God’s presence through prayer, worship, and the study of His Word. Though only 30 minutes, these sessions are powerful and life-transforming.</p>
-<p>“Very early in the morning… Jesus got up, left the house and went off to a solitary place, where He prayed.” — Mark 1:35</p>
-<h4 id="online-bible-study">Online Bible Study</h4>
-<p>Thursday<br>
-Time: 7:00 PM – 8:00 PM</p>
-<p>Our weekly Bible Study is an interactive session where we grow together in the knowledge and understanding of God’s Word. Through discussions, questions, and biblical teaching, we deepen our faith and strengthen one another.</p>
-<p>“All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness.” — 2 Timothy 3:16–17</p>
-<h4 id="monthly-online-night-vigil">Monthly Online Night Vigil</h4>
-<p>Last Friday of Every Month<br>
-Time: 10:00 PM – 12:00 AM</p>
-<p>At the end of every month, we gather online for an atmosphere of worship, prayer, thanksgiving, and prophetic declarations as we seek God’s direction and prepare for the month ahead.</p>
-<p>“Watch and pray, so that you will not fall into temptation.” — Matthew 26:41</p>
-<p>We warmly invite you to be a part of these life-changing gatherings as we grow together in Christ and fulfill God’s purpose for our lives.</p>
-<h2 id="and-a-map">And a map</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div id="map_0" class="map"></div>
-
-
-  
-
-    <script>
-
-		var points = [{"latitude":"50.870626","longitude":"8.016806"}];
-		var initialZoom = "18";
-		var bounds = new L.LatLngBounds(points.map(p=>{
-			return [p.latitude,p.longitude];
-		}));
-		var mymap = L.map("map_0").fitBounds(bounds);
-		if ( initialZoom == 0 ){
-			
-			
-			if ( mymap.getZoom() > 13){
-				mymap.setZoom(13);
-			}
-		} else {
-				mymap.setZoom(initialZoom);
-		}
-        L.tileLayer(
-          "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-          {
-            attribution:
-              'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-              zoom: 18 }
-        ).addTo(mymap);
-		points.forEach(loc=>{
-			let marker = L.marker([loc.latitude,loc.longitude]).addTo(mymap);
-			if ( loc.title ){
-				let content;
-				if ( loc.link ){
-					content = `<div class="special"><h4>${loc.title}</h4><a class="" href="${loc.link}">Find out more</a></div>`
-				} else {
-					content = `<h4>${loc.title}</h4>`
-				}
-				marker.bindPopup(content,{closeOnClick: false, autoClose: false}).openPopup();
-			}
-		});
-
-    </script>
-  
-
 </div>
 						
 							<hr />

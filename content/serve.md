@@ -84,14 +84,6 @@ Sharing the Gospel, building relationships, and helping others grow in their kno
 
 Would you like to serve, volunteer, partner with us, or learn more about our community initiatives?
 
-**We would love to hear from you.**
-
-Whether you have a heart for prayer, outreach, practical service, youth ministry, evangelism, or simply helping wherever there is a need, there is an opportunity for you to make a difference.
-
-**Get in touch with New Birth of Believers Ministry and become part of what God is doing in our community.**
-
-Together, we can serve with love, build one another up, and be a living testimony of God's grace.
-
 [Contact us here to serve with us](/contact)
 
 > “For we are God’s handiwork, created in Christ Jesus to do good works.” — Ephesians 2:10
