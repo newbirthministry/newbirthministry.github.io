@@ -2,7 +2,11 @@
 <body {{ if .IsHome }} class="landing" {{ end }} >
   <div id="page-wrapper">
     <header id="header" {{ if .IsHome }} class="alt" {{ end }} >
+      {{ if .Site.Params.logo }}
+      <h1><a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Params.title }}" style="height:48px;max-height:60px;"/></a></h1>
+      {{ else }}
       <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Params.title }}</a></h1>
+      {{ end }}
 
       {{ "<!-- Nav -->" | safeHTML }}
       <nav id="nav">
