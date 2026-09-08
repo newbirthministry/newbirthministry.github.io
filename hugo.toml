@@ -97,8 +97,8 @@ enableEmoji = true
 # Paramaters for the whole site
 [params]
   title = "New Birth Of Believers Ministry"
-  # Path to site logo (place image under static/img/) e.g. "/img/site-logo.png"
-  logo = "/img/site-logo.png"
+  # Path to site logo (using uploaded image in public/img/)
+  logo = "/img/churchlogo.png"
   subtitle = ""
   keywords = ["theme", "hugo", "podcast"]
   languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
@@ -112,8 +112,8 @@ enableEmoji = true
     email = "test@example.com"
 
   [params.favicon]
-    sml = "/example16.png"
-    med = "/example32.png"
+    sml = "/img/churchlogo.png"
+    med = "/img/churchlogo.png"
     #lge = "example96.png"
 
   [params.banner]
