@@ -154,7 +154,7 @@ enableEmoji = true
     #
     #If you use php, you need to host this site on a Server capable of running php.
     # Please edit the /static/contact_mail.php file from the exampleSite.
-    service = "netlify" #or "formspree" or "php"
+    service = "formspree" #or "formspree" or "php"
     confirm_page = "/contact_thanks" #only used by netlify
     # formspree_formid="" #only used by formspree
 
