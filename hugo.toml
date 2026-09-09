@@ -92,7 +92,7 @@ enableEmoji = true
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 4
+    weight = 5
 
 # Paramaters for the whole site
 [params]

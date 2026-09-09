@@ -26,6 +26,27 @@
                             "zoom" .Site.Params.Map.zoom
                         }}
 						{{ partial "map" $mapdetails }}
+						<p style="margin-top: 1rem; margin-bottom: 0; text-align: center;">
+							<a id="route-map-link" class="button alt" href="#">Open in maps</a>
+						</p>
+						<script>
+							(function() {
+							  var lat = "{{ .Site.Params.Map.latitude }}";
+							  var lon = "{{ .Site.Params.Map.longitude }}";
+							  var link = document.getElementById("route-map-link");
+							  if (!link) return;
+							  var ua = navigator.userAgent || navigator.vendor || window.opera;
+							  var isIOS = /iPhone|iPad|iPod/i.test(ua);
+							  var isAndroid = /Android/i.test(ua);
+							  if (isIOS) {
+							    link.href = "https://maps.apple.com/?daddr=" + lat + "," + lon + "&dirflg=d";
+							  } else if (isAndroid) {
+							    link.href = "https://www.google.com/maps/dir/?api=1&destination=" + lat + "," + lon + "&travelmode=driving";
+							  } else {
+							    link.href = "https://www.google.com/maps/dir/?api=1&destination=" + lat + "," + lon + "&travelmode=driving";
+							  }
+							})();
+						</script>
 					</section>
 					{{ end }}
 

@@ -6,6 +6,6 @@ location:
 date: 2026-08-12T12:00:00+00:00
 ---
 
-This is our main branch and where our vision as a church started. 
+This is our main branch and where our vision as a church started.
 
-Get directions: [Open in maps](/go?lat=50.870626&lon=8.016806&label=New%20Birth%20Believers%20Ministry)
+Get directions: [Open in maps](https://www.google.com/maps/dir/?api=1&destination=50.870626,8.016806&travelmode=driving)
