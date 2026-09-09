@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ministry on Alpha Church</title>
-		<link>http://localhost:1313/tags/ministry/</link>
+		<link>https://github.io/tags/ministry/</link>
 		<description>Recent content in Ministry on Alpha Church</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -16,26 +16,26 @@
 		
 			<lastBuildDate>Wed, 12 Aug 2026 12:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/ministry/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://github.io/tags/ministry/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kids</title>
-				<link>http://localhost:1313/kids/</link>
+				<link>https://github.io/kids/</link>
 				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/kids/</guid>
+				<guid>https://github.io/kids/</guid>
 				<description>&lt;h2 id=&#34;section&#34;&gt;Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some text&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;another-section&#34;&gt;Another Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some more text&lt;/p&gt;&#xA;&lt;p&gt;This is an example of multiple columns.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;left-column&#34;&gt;Left Column&lt;/h3&gt;&#xA;&lt;p&gt;You can fill this in with &lt;em&gt;markdown&lt;/em&gt;&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;another-subheading&#34;&gt;Another subheading&lt;/h3&gt;&#xA;&lt;p&gt;Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan&#xA;eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent.&#xA;Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus.&#xA;Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Serve</title>
-				<link>http://localhost:1313/serve/</link>
+				<link>https://github.io/serve/</link>
 				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/serve/</guid>
+				<guid>https://github.io/serve/</guid>
 				<description>&lt;h1 id=&#34;service-to-our-community&#34;&gt;Service to Our Community&lt;/h1&gt;&#xA;&lt;p&gt;At &lt;strong&gt;New Birth of Believers Ministry&lt;/strong&gt;, we believe that the Gospel is not only something we proclaim—it is something we live. As followers of Christ, we are called to love, serve, encourage, and make a positive difference in the lives of those around us.&lt;/p&gt;&#xA;&lt;p&gt;Jesus said:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“By this everyone will know that you are my disciples, if you love one another.” — John 13:35&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Our desire is to be a church that reaches beyond its walls and serves our community with compassion, humility, and the love of Christ. We believe that every believer has a role to play, and that our time, talents, resources, and spiritual gifts can be used to bless others and bring glory to God.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Speak</title>
-				<link>http://localhost:1313/speak/</link>
+				<link>https://github.io/speak/</link>
 				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/speak/</guid>
+				<guid>https://github.io/speak/</guid>
 				<description>&lt;h1 id=&#34;speak&#34;&gt;Speak&lt;/h1&gt;&#xA;&lt;p&gt;Resources and notes about biblical teaching, encouragement, spiritual growth, and pastoral care.&lt;/p&gt;&#xA;&lt;p&gt;Our desire is to speak the truth of God’s Word with love, bringing encouragement, hope, and guidance to individuals as they grow in their relationship with Christ.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;groups&#34;&gt;Groups&lt;/h2&gt;&#xA;&lt;p&gt;Our ministry groups provide opportunities for fellowship, service, encouragement, and the development of the gifts God has given each believer.&lt;/p&gt;&#xA;&lt;h3 id=&#34;emit-star&#34;&gt;EMIT STAR&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Women Empowerment&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A community dedicated to encouraging and empowering women to discover their God-given identity, gifts, purpose, and potential. EMIT STAR provides a supportive environment where women can grow spiritually, encourage one another, and become a positive influence in their families, church, and community.&lt;/p&gt;</description>
 			</item>
 	</channel>

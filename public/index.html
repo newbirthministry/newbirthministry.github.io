@@ -8,7 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
 		<meta name="author" content="Web Author">
-		<meta name="keywords" content="theme, hugo, podcast" /><link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="Alpha Church" /><meta name="generator" content="Hugo 0.165.0"><link rel="shortcut icon" href="/img/churchlogo.png" sizes="16x16"/><link rel="shortcut icon" href="/img/churchlogo.png" sizes="32x32"/>
+		<meta name="keywords" content="theme, hugo, podcast" /><link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="Alpha Church" /><meta name="generator" content="Hugo 0.165.0"><link rel="shortcut icon" href="/example16.png" sizes="16x16"/><link rel="shortcut icon" href="/example32.png" sizes="32x32"/>
 			<meta name="apple-itunes-app" content="app-id=1034013280" />
 		
 		<meta property="og:url" content="http://localhost:1313/">
@@ -41,7 +41,7 @@
   <div id="page-wrapper">
     <header id="header"  class="alt"  >
       
-      <h1><a href="http://localhost:1313/"><img src="/img/churchlogo.png" alt="New Birth Of Believers Ministry" style="height:48px;max-height:60px;"/></a></h1>
+      <h1><a href="http://localhost:1313/"><img src="/img/site-logo.png" alt="New Birth Of Believers Ministry" style="height:48px;max-height:60px;"/></a></h1>
       
 
       <!-- Nav -->
@@ -106,14 +106,6 @@
         
             
                 <li>
-                    <a href="/contact">
-                         Contact
-                    </a>
-                </li>
-            
-        
-            
-                <li>
                     <a href="/locations/"><i class="fas fa-angle-down"></i>
                         Locations
                     </a>
@@ -125,6 +117,14 @@
                       
                     </ul>
                   </li>
+            
+        
+            
+                <li>
+                    <a href="/contact">
+                         Contact
+                    </a>
+                </li>
             
         
         </ul>
@@ -208,6 +208,27 @@
     </script>
   
 
+						<p style="margin-top: 1rem; margin-bottom: 0; text-align: center;">
+							<a id="route-map-link" class="button alt" href="#">Open in maps</a>
+						</p>
+						<script>
+							(function() {
+							  var lat = "50.870619";
+							  var lon = "8.016728";
+							  var link = document.getElementById("route-map-link");
+							  if (!link) return;
+							  var ua = navigator.userAgent || navigator.vendor || window.opera;
+							  var isIOS = /iPhone|iPad|iPod/i.test(ua);
+							  var isAndroid = /Android/i.test(ua);
+							  if (isIOS) {
+							    link.href = "https://maps.apple.com/?daddr=" + lat + "," + lon + "&dirflg=d";
+							  } else if (isAndroid) {
+							    link.href = "https://www.google.com/maps/dir/?api=1&destination=" + lat + "," + lon + "&travelmode=driving";
+							  } else {
+							    link.href = "https://www.google.com/maps/dir/?api=1&destination=" + lat + "," + lon + "&travelmode=driving";
+							  }
+							})();
+						</script>
 					</section>
 					
 

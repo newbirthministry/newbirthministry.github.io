@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bible on Alpha Church</title>
-		<link>http://localhost:1313/tags/bible/</link>
+		<link>https://github.io/tags/bible/</link>
 		<description>Recent content in Bible on Alpha Church</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -16,19 +16,19 @@
 		
 			<lastBuildDate>Wed, 12 Aug 2026 12:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/bible/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://github.io/tags/bible/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Word of God I</title>
-				<link>http://localhost:1313/sermons/table-talk-word-of-god-i/</link>
+				<link>https://github.io/sermons/table-talk-word-of-god-i/</link>
 				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/sermons/table-talk-word-of-god-i/</guid>
+				<guid>https://github.io/sermons/table-talk-word-of-god-i/</guid>
 				<description>&lt;p&gt;Recording by Gillian Hedrie from &lt;a href=&#34;https://librivox.org/selections-from-the-table-talk-of-martin-luther-by-martin-luther/&#34;&gt;Librivox&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Bible Study</title>
-				<link>http://localhost:1313/bible-study/</link>
+				<link>https://github.io/bible-study/</link>
 				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/bible-study/</guid>
+				<guid>https://github.io/bible-study/</guid>
 				<description>&lt;!-- Page content: Bible Study — current topics, how to join, and reading plans --&gt;&#xA;&lt;h2 id=&#34;bible-study&#34;&gt;Bible Study&lt;/h2&gt;&#xA;&lt;p&gt;Information on midweek Bible study groups and resources.&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;groups-and-topics&#34;&gt;Groups and Topics&lt;/h2&gt;&#xA;&lt;p&gt;Descriptions of ongoing studies and how to join.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;current-topics&#34;&gt;Current Topics&lt;/h3&gt;&#xA;&lt;p&gt;Short notes on the current series and reading plan.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;join&#34;&gt;Join&lt;/h3&gt;&#xA;&lt;p&gt;How to sign up and group meeting times.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
 			</item>
 	</channel>
