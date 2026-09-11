@@ -8,4 +8,4 @@ date: 2026-08-12T12:00:00+00:00
 
 This is our main branch and where our vision as a church started.
 
-Get directions: [Open in maps](https://www.google.com/maps/dir/?api=1&destination=50.870626,8.016806&travelmode=driving)
+Get directions: [Open in maps](geo:50.870626,8.016806)
