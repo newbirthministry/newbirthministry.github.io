@@ -18,7 +18,7 @@
 #Details for the box below the banner
 [services]
   title = "Church on Sunday"
-  text = "We meet at 11 am and 2 pm at [7 Sankt-Johann-Straße, Siegen](geo:50.870626,8.016806)."
+  text = "We meet at 11 am and 2 pm at [Wilhelm-von-Humboldt-Platz 4, Siegen](geo:50.9045968,8.0298109)."
   map_location = "New Birth Ministry"
 
 [feature_icons]

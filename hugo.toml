@@ -136,8 +136,8 @@ enableEmoji = true
   [params.map]
     service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
     # For Open Street Map widgets
-    latitude = "50.870619"
-    longitude = "8.016728"
+    latitude = "50.9045968"
+    longitude = "8.0298109"
     zoom = "18"
     # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
     #service = "google"
