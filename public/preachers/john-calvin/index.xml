@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>John Calvin on Alpha Church</title>
-		<link>http://localhost:1313/preachers/john-calvin/</link>
+		<link>https://github.io/preachers/john-calvin/</link>
 		<description>Recent content in John Calvin on Alpha Church</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -16,12 +16,12 @@
 		
 			<lastBuildDate>Wed, 12 Aug 2026 12:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/preachers/john-calvin/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://github.io/preachers/john-calvin/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>John Calvin: Institutes 2 11</title>
-				<link>http://localhost:1313/sermons/institutes-2-11/</link>
+				<link>https://github.io/sermons/institutes-2-11/</link>
 				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/sermons/institutes-2-11/</guid>
+				<guid>https://github.io/sermons/institutes-2-11/</guid>
 				<description>&lt;p&gt;Public Domain recording from &lt;a href=&#34;https://librivox.org/institutes-of-the-christian-religion-book-two-by-john-calvin/&#34;&gt;librivox&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>

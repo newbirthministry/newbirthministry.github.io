@@ -1,8 +1,8 @@
 ---
 title: New Birth Believers Ministry, Siegen
 location:
-  latitude: 50.870626
-  longitude: 8.016806
+  latitude: 50.9045968
+  longitude: 8.0298109
 date: 2026-08-12T12:00:00+00:00
 ---
 
