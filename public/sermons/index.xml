@@ -4,8 +4,8 @@
 
   <channel>
     <title>Listen to Alpha Church</title>
-    <link>http://localhost:1313/</link>
-    <atom:link href="http://localhost:1313/sermons/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.io/</link>
+    <atom:link href="https://github.io/sermons/index.xml" rel="self" type="application/rss+xml" />
     <language>en</language>
     <lastBuildDate>Wed, 12 Aug 2026 12:00:00 &#43;0000</lastBuildDate>
     <copyright>The files in the podcast are in the public domain.</copyright>
@@ -16,7 +16,7 @@
       <itunes:name>Web Author</itunes:name>
       <itunes:email>test@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://localhost:1313/img/podcast-cover.jpg" />
+    <itunes:image href="https://github.io/img/podcast-cover.jpg" />
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
@@ -34,7 +34,7 @@
       
        <enclosure url="//ia801403.us.archive.org/29/items/institutes_christian_religion2_1003_librivox/institutesofchristianreligion2_11_calvin_64kb.mp3" length="10748346" type="audio/mp3" />
       <guid>//ia801403.us.archive.org/29/items/institutes_christian_religion2_1003_librivox/institutesofchristianreligion2_11_calvin_64kb.mp3</guid>
-      <link>http://localhost:1313/sermons/institutes-2-11/</link>
+      <link>https://github.io/sermons/institutes-2-11/</link>
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0000 </pubDate>
       <itunes:duration>22:23</itunes:duration><itunes:keywords>theology, redemption, historical</itunes:keywords></item><item>
       <title>Word of God I (Table Talk)</title>
@@ -46,11 +46,11 @@
       <googleplay:description><![CDATA[<p>Recording by Gillian Hedrie from <a href="https://librivox.org/selections-from-the-table-talk-of-martin-luther-by-martin-luther/">Librivox</a></p>
 ]]></googleplay:description>
       <content:encoded><![CDATA[<p>Recording by Gillian Hedrie from <a href="https://librivox.org/selections-from-the-table-talk-of-martin-luther-by-martin-luther/">Librivox</a></p>
-]]></content:encoded><itunes:image href="http://localhost:1313/img/freely-20445.jpg"/>
+]]></content:encoded><itunes:image href="https://github.io/img/freely-20445.jpg"/>
       
        <enclosure url="//www.archive.org/download/table_talk_martin_luther_1801_librivox/tabletalk_05_luther_128kb.mp3" length="14076118" type="audio/mp3" />
       <guid>//www.archive.org/download/table_talk_martin_luther_1801_librivox/tabletalk_05_luther_128kb.mp3</guid>
-      <link>http://localhost:1313/sermons/table-talk-word-of-god-i/</link>
+      <link>https://github.io/sermons/table-talk-word-of-god-i/</link>
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0000 </pubDate>
       <itunes:duration>14:39</itunes:duration><itunes:keywords>bible, scripture, historical</itunes:keywords></item></channel>
 </rss>

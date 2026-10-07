@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Two_column on Alpha Church</title>
-		<link>http://localhost:1313/tags/two_column/</link>
+		<link>https://github.io/tags/two_column/</link>
 		<description>Recent content in Two_column on Alpha Church</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -16,40 +16,40 @@
 		
 			<lastBuildDate>Wed, 12 Aug 2026 12:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/two_column/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://github.io/tags/two_column/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Kids</title>
-				<link>http://localhost:1313/kids/</link>
+				<link>https://github.io/kids/</link>
 				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/kids/</guid>
+				<guid>https://github.io/kids/</guid>
 				<description>&lt;h2 id=&#34;section&#34;&gt;Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some text&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;another-section&#34;&gt;Another Section&lt;/h2&gt;&#xA;&lt;p&gt;Here is some more text&lt;/p&gt;&#xA;&lt;p&gt;This is an example of multiple columns.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;left-column&#34;&gt;Left Column&lt;/h3&gt;&#xA;&lt;p&gt;You can fill this in with &lt;em&gt;markdown&lt;/em&gt;&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-4 col-6-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;another-subheading&#34;&gt;Another subheading&lt;/h3&gt;&#xA;&lt;p&gt;Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan&#xA;eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent.&#xA;Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus.&#xA;Curae lorem ipsum adipiscing ac. Vivamus ornare laoreet odio vis praesent.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Bible Study</title>
-				<link>http://localhost:1313/bible-study/</link>
+				<link>https://github.io/bible-study/</link>
 				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/bible-study/</guid>
+				<guid>https://github.io/bible-study/</guid>
 				<description>&lt;!-- Page content: Bible Study — current topics, how to join, and reading plans --&gt;&#xA;&lt;h2 id=&#34;bible-study&#34;&gt;Bible Study&lt;/h2&gt;&#xA;&lt;p&gt;Information on midweek Bible study groups and resources.&lt;/p&gt;&#xA;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&lt;div class=&#34;page-content&#34;&gt;&#xA;&lt;h2 id=&#34;groups-and-topics&#34;&gt;Groups and Topics&lt;/h2&gt;&#xA;&lt;p&gt;Descriptions of ongoing studies and how to join.&lt;/p&gt;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;current-topics&#34;&gt;Current Topics&lt;/h3&gt;&#xA;&lt;p&gt;Short notes on the current series and reading plan.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xA;    &lt;h3 id=&#34;join&#34;&gt;Join&lt;/h3&gt;&#xA;&lt;p&gt;How to sign up and group meeting times.&lt;/p&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Loved</title>
-				<link>http://localhost:1313/loved/</link>
+				<link>https://github.io/loved/</link>
 				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/loved/</guid>
+				<guid>https://github.io/loved/</guid>
 				<description>&lt;h1 id=&#34;loved&#34;&gt;Loved&lt;/h1&gt;&#xA;&lt;p&gt;A place to be heard, supported, encouraged, and reminded that you are never alone.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;strong&gt;New Birth of Believers Ministry&lt;/strong&gt;, we believe that every person matters. We seek to create a loving and welcoming community where people can find someone to listen, receive support in difficult seasons, and discover resources that encourage spiritual and personal growth.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;listening&#34;&gt;Listening&lt;/h2&gt;&#xA;&lt;p&gt;Sometimes, people simply need someone who will listen.&lt;/p&gt;&#xA;&lt;p&gt;We provide a safe and caring environment where individuals can share their experiences, concerns, questions, and challenges without feeling judged. Through pastoral conversations, prayer, and fellowship, we seek to listen with compassion and respond with the love of Christ.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Meet</title>
-				<link>http://localhost:1313/meet/</link>
+				<link>https://github.io/meet/</link>
 				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/meet/</guid>
+				<guid>https://github.io/meet/</guid>
 				<description>&lt;h1 id=&#34;meet-us&#34;&gt;Meet Us&lt;/h1&gt;&#xA;&lt;p&gt;Information about our regular worship services, Bible study, and prayer gatherings.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;&#xA;&lt;p&gt;Times and details for our regular ministry gatherings.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;sunday-worship-service&#34;&gt;Sunday Worship Service&lt;/h3&gt;&#xA;&lt;p&gt;Our Sunday Worship Service is a time of heartfelt praise, worship, prayer, and the teaching of God’s Word. It is a wonderful opportunity for fellowship, spiritual growth, and encountering God’s presence.&lt;/p&gt;&#xA;&lt;p&gt;“Let us not neglect our meeting together… but encourage one another.” — Hebrews 10:24–25&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Serve</title>
-				<link>http://localhost:1313/serve/</link>
+				<link>https://github.io/serve/</link>
 				<pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/serve/</guid>
+				<guid>https://github.io/serve/</guid>
 				<description>&lt;h1 id=&#34;service-to-our-community&#34;&gt;Service to Our Community&lt;/h1&gt;&#xA;&lt;p&gt;At &lt;strong&gt;New Birth of Believers Ministry&lt;/strong&gt;, we believe that the Gospel is not only something we proclaim—it is something we live. As followers of Christ, we are called to love, serve, encourage, and make a positive difference in the lives of those around us.&lt;/p&gt;&#xA;&lt;p&gt;Jesus said:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“By this everyone will know that you are my disciples, if you love one another.” — John 13:35&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Our desire is to be a church that reaches beyond its walls and serves our community with compassion, humility, and the love of Christ. We believe that every believer has a role to play, and that our time, talents, resources, and spiritual gifts can be used to bless others and bring glory to God.&lt;/p&gt;</description>
 			</item>
 	</channel>

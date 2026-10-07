@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Scripture on Alpha Church</title>
-		<link>http://localhost:1313/tags/scripture/</link>
+		<link>https://github.io/tags/scripture/</link>
 		<description>Recent content in Scripture on Alpha Church</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -16,12 +16,12 @@
 		
 			<lastBuildDate>Wed, 12 Aug 2026 12:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/scripture/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://github.io/tags/scripture/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Word of God I</title>
-				<link>http://localhost:1313/sermons/table-talk-word-of-god-i/</link>
+				<link>https://github.io/sermons/table-talk-word-of-god-i/</link>
 				<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
-				<guid>http://localhost:1313/sermons/table-talk-word-of-god-i/</guid>
+				<guid>https://github.io/sermons/table-talk-word-of-god-i/</guid>
 				<description>&lt;p&gt;Recording by Gillian Hedrie from &lt;a href=&#34;https://librivox.org/selections-from-the-table-talk-of-martin-luther-by-martin-luther/&#34;&gt;Librivox&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
