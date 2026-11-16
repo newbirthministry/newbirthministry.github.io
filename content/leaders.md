@@ -50,5 +50,15 @@ Some more blurb
 
 {{< /card >}}
 
+{{< card image="/img/freely-26905.jpg" >}}
+
+## Person 4
+
+Some more blurb
+
+{{< button link="#" text="Sermons">}}
+
+{{< /card >}}
+
 {{< /card_row >}}
 
