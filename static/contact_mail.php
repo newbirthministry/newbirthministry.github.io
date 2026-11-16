@@ -1,37 +1,35 @@
 <?php
-# Edit the following 5 variables to fit your needs!
-
-# Recipient of the Mail:
-$to = "admin@example.org";
-# The "from" address of the Mail. This should match the domain of the server:
-$from = "website@example.org";
-# Forward Users to this Page if the mail is successfully sent:
+# Private recipient and default subject are kept server-side so the public site does not expose the inbox address.
+$to = "newbirth.believers.ministries@gmail.com";
+$from = "noreply@newbirthministry.github.io";
 $confirm_page = "/contact_thanks";
-# If something goes wrong and sending the mail fails, forward users to:
 $error_page = "/404.html";
-# Specify the Subject of the Mail:
-$subject = "Feedback from example.org";
 
+if (isset($_POST['send'])) {
+    $name = isset($_POST['name']) ? trim(strip_tags($_POST['name'])) : "";
+    $email = isset($_POST['email']) ? trim($_POST['email']) : "";
+    $message_text = isset($_POST['message']) ? trim($_POST['message']) : "";
+    $subject = isset($_POST['subject']) && $_POST['subject'] !== '' ? trim(strip_tags($_POST['subject'])) : "New Birth Ministry Contact Form Enquiry";
 
-if (isset($_POST['send'])) {    
-    $message = "Name: " . $_POST['name'] . "\r\n\r\n";
-    $message .= "Email: " . $_POST['email'] . "\r\n\r\n";
-    $message .= "Message: " . $_POST['message'] . "\r\n\r\n";
+    $message = "Name: " . $name . "\r\n\r\n";
+    $message .= "Email: " . $email . "\r\n\r\n";
+    $message .= "Message:\r\n" . $message_text . "\r\n\r\n";
 
+    $email_ok = filter_var($email, FILTER_VALIDATE_EMAIL);
     $headers = "From: " . $from . "\r\n";
-    $headers .= "Content-Type: text/plain; charset: utf-8";
-    $email_ok = filter_input(INPUT_POST, 'email', FILTER_VALIDATE_EMAIL);
+    $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
     if ($email_ok) {
-        $headers .= "\r\nReply-To: $email";
+        $headers .= "Reply-To: " . $email . "\r\n";
     }
-    
+
     $success = mail($to, $subject, $message, $headers);
-    
-    if (isset($success) && $success){
-        header("Location: ".$confirm_page);
+
+    if ($success) {
+        header("Location: " . $confirm_page);
         exit;
     }
-} 
-header("Location: ".$error_page);
+}
+
+header("Location: " . $error_page);
 exit;
 ?>

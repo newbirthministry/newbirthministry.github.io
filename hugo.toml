@@ -158,8 +158,8 @@ enableEmoji = true
     #If you use formspree, you'll need to set your formspree form_id.
     #
     #If you use php, you need to host this site on a Server capable of running php.
-    # Please edit the /static/contact_mail.php file from the exampleSite.
-    service = "formspree" #or "formspree" or "php"
+    # The real email is kept only in /static/contact_mail.php so it is not exposed publicly in the site HTML.
+    service = "php" #or "formspree" or "php"
     confirm_page = "/contact_thanks" #only used by netlify
     # formspree_formid="" #only used by formspree
 
