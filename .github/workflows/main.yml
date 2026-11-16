@@ -49,13 +49,12 @@ jobs:
       - name: Install Dart Sass
         shell: bash
         run: |
-          npm install -g sass
-          SASS_BIN="$(npm prefix -g)/bin/sass"
-          export PATH="$(dirname "$SASS_BIN"):$PATH"
-          echo "$(dirname "$SASS_BIN")" >> "$GITHUB_PATH"
+          npm install --save-dev sass@1.108.2
+          SASS_BIN="$GITHUB_WORKSPACE/node_modules/.bin/sass"
           echo "DART_SASS_BINARY=$SASS_BIN" >> "$GITHUB_ENV"
-          command -v sass
-          sass --version
+          echo "$GITHUB_WORKSPACE/node_modules/.bin" >> "$GITHUB_PATH"
+          ls -l "$SASS_BIN"
+          "$SASS_BIN" --version
 
       - name: Build with Hugo
         env:
@@ -63,7 +62,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           DART_SASS_BINARY: ${{ env.DART_SASS_BINARY }}
         run: |
-          export PATH="$(dirname "${DART_SASS_BINARY:-$(npm prefix -g)/bin/sass}"):$PATH"
+          export PATH="$GITHUB_WORKSPACE/node_modules/.bin:$PATH"
           command -v sass
           sass --version
           hugo \
