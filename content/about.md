@@ -2,7 +2,7 @@
 title: "About"
 subtitle: "New Birth of Believers Ministry"
 date: 2026-08-12T12:00:00+00:00
-images: ["img/freely-20445.jpg"]
+images: ["img/banner_5.jpg"]
 draft: false
 ---
 
