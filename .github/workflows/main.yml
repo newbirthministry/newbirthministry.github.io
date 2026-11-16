@@ -50,9 +50,10 @@ jobs:
         shell: bash
         run: |
           npm install -g sass
-          SASS_BIN="$(npm prefix -g)/bin"
-          export PATH="$SASS_BIN:$PATH"
-          echo "$SASS_BIN" >> "$GITHUB_PATH"
+          SASS_BIN="$(npm prefix -g)/bin/sass"
+          export PATH="$(dirname "$SASS_BIN"):$PATH"
+          echo "$(dirname "$SASS_BIN")" >> "$GITHUB_PATH"
+          echo "DART_SASS_BINARY=$SASS_BIN" >> "$GITHUB_ENV"
           command -v sass
           sass --version
 
@@ -60,9 +61,9 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          DART_SASS_BINARY: ${{ env.DART_SASS_BINARY }}
         run: |
-          SASS_BIN="$(npm prefix -g)/bin"
-          export PATH="$SASS_BIN:$PATH"
+          export PATH="$(dirname "${DART_SASS_BINARY:-$(npm prefix -g)/bin/sass}"):$PATH"
           command -v sass
           sass --version
           hugo \

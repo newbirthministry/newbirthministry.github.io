@@ -16,6 +16,9 @@ enableEmoji = true
 [security]
   enableInlineShortcodes = true
 
+  [security.exec]
+    allow = ['^(dart-)?sass$', '^/.*sass$', '^go$', '^git$', '^node$', '^postcss$']
+
 [markup.goldmark.renderer]
   unsafe = true
 
