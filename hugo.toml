@@ -156,11 +156,12 @@ enableEmoji = true
     #
     #If you use netlify, you'll need to set the confirm_page value (otherwise users will see a generic netlify response)
     #If you use formspree, you'll need to set your formspree form_id.
+    #The actual Gmail inbox should be configured in the Formspree account, not exposed in the public HTML.
     #
     #If you use php, you need to host this site on a Server capable of running php.
     service = "formspree" #or "formspree" or "php"
     confirm_page = "/contact_thanks" #only used by netlify
-    formspree_formid = "your-form-id" #replace with your live Formspree form ID
+    formspree_formid = "myeweozd" # live Formspree form ID; Gmail inbox is configured in Formspree settings
 
 
     [params.footer]
@@ -168,18 +169,6 @@ enableEmoji = true
                    "Design: [HTML5 UP](//html5up.net/alpha)",
                    "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)"
                   ]
-
-    [[params.links]]
-      service = "Twitter"
-      icon = "fa-twitter"
-      icon_pack = "fab"
-      link = "//twitter.com/"
-
-    [[params.links]]
-      service = "Facebook"
-      icon = "fa-facebook"
-      icon_pack = "fab"
-      link = "//facebook.com/"
 
     [[params.links]]
       service = "Podcast"

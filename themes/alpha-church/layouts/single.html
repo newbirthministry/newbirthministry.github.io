@@ -10,7 +10,7 @@
 						{{ with .Params.images }}
 							<span class="image featured"><img src="{{ index . 0 | absURL }}" alt=""></span>
 						{{ end }}
-						<div class="page-content">{{ .Content }}</div>
+						<div class="page-content{{ if eq .File.BaseFileName "about" }} about-page-content{{ end }}">{{ .Content }}</div>
 						{{ if or .Params.tags .Params.date }}
 							<hr />
 							<div id="meta">
