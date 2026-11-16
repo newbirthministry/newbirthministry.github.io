@@ -115,8 +115,8 @@ enableEmoji = true
     email = "test@example.com"
 
   [params.favicon]
-    sml = "/example16.png"
-    med = "/example32.png"
+    sml = "/16x16.png"
+    med = "/32x32.png"
     #lge = "example96.png"
 
   [params.banner]
