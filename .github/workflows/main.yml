@@ -35,17 +35,35 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
 
+      - name: Install Dart Sass
+        shell: bash
+        run: |
+          SASS_VERSION="1.85.1"
+          curl -L "https://github.com/sass/dart-sass/releases/download/${SASS_VERSION}/dart-sass-${SASS_VERSION}-linux-x64.tar.gz" -o /tmp/dart-sass.tar.gz
+          mkdir -p /tmp/dart-sass
+          tar -xf /tmp/dart-sass.tar.gz -C /tmp
+          echo "/tmp/dart-sass-${SASS_VERSION}-linux-x64" >> "$GITHUB_PATH"
+          which sass
+          sass --version
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
+          which sass
+          sass --version
           hugo \
             --gc \
             --minify \
