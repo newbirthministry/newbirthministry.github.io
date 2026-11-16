@@ -180,7 +180,7 @@ enableEmoji = true
       service = "Instagram"
       icon = "fa-instagram"
       icon_pack = "fab"
-      link = "//instagram.com"
+      link = "https://www.instagram.com/newbirthofbelievers_ministry/"
 
     [[params.links]]
       service = "Full RSS Feed"
