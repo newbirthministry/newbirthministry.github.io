@@ -50,9 +50,10 @@ jobs:
         shell: bash
         run: |
           npm install -g sass
-          export PATH="$(npm prefix -g)/bin:$PATH"
-          echo "$(npm prefix -g)/bin" >> "$GITHUB_PATH"
-          which sass
+          SASS_BIN="$(npm prefix -g)/bin"
+          export PATH="$SASS_BIN:$PATH"
+          echo "$SASS_BIN" >> "$GITHUB_PATH"
+          command -v sass
           sass --version
 
       - name: Build with Hugo
@@ -60,8 +61,9 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
-          export PATH="$(npm prefix -g)/bin:$PATH"
-          which sass
+          SASS_BIN="$(npm prefix -g)/bin"
+          export PATH="$SASS_BIN:$PATH"
+          command -v sass
           sass --version
           hugo \
             --gc \
