@@ -1,0 +1,5 @@
+#!/bin/bash
+printf "DEBUG PATH=%s\n" "$PATH" > .tmp/hugo-sass-debug.log
+env | sort >> .tmp/hugo-sass-debug.log
+printf "ARGV=%s\n" "$*" >> .tmp/hugo-sass-debug.log
+exec /home/titan/Documents/newbirthministry/node_modules/.bin/sass "$@"

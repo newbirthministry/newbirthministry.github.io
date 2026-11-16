@@ -49,12 +49,12 @@ jobs:
       - name: Install Dart Sass
         shell: bash
         run: |
-          npm install --save-dev sass@1.108.2
+          npm install --save-dev sass-embedded@1.108.2
           SASS_BIN="$GITHUB_WORKSPACE/node_modules/.bin/sass"
           echo "DART_SASS_BINARY=$SASS_BIN" >> "$GITHUB_ENV"
           echo "$GITHUB_WORKSPACE/node_modules/.bin" >> "$GITHUB_PATH"
           ls -l "$SASS_BIN"
-          "$SASS_BIN" --version
+          "$SASS_BIN" --embedded --version
 
       - name: Build with Hugo
         env:
